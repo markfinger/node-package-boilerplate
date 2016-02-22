@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Prevent compiled source from being committed
+lib
+
+# Prevent editor cruft from being committed
+.idea
