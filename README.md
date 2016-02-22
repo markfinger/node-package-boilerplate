@@ -59,7 +59,16 @@ npm install --save-dev \
 Integrations
 ------------
 
+#### Travis CI
+
 Go to https://travis-ci.org/profile/markfinger and toggle the repo on.
+
+#### Greenkeeper
+
+```
+greenkeeper sync
+greenkeeper enable
+```
 
 
 Should probably...
