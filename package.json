@@ -13,5 +13,7 @@
   "bugs": null,
   "homepage": null,
   "author": "Mark Finger",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
 }
