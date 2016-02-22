@@ -19,7 +19,7 @@ git clone --depth=1 --branch=master git@github.com:markfinger/node-package-boile
 rm -rf $REPO_NAME/.git
 cd $REPO_NAME
 rm README.md
-echo "# " $REPO_NAME >> README.md
+echo "#" $REPO_NAME >> README.md
 ```
 
 Commit to the new repo
